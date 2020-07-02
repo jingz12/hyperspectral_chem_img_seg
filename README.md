@@ -1,7 +1,7 @@
 # hyperspectral_chem_img_seg
-hyperspectral_chemical_imaging_segmentation
+Hyperspectral_chemical_imaging_segmentation
 
-main reference: 
+Main reference: 
 M. Miljković, T. Chernenko, M. J. Romeo, B. Bird, C. Matthäus, and M. Diem, "Label-free imaging of human cells: algorithms for image 
 reconstruction of Raman hyperspectral datasets," Analyst 135, 2002 (2010).
 
